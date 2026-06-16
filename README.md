@@ -1,6 +1,6 @@
 # Puzzle Game (Java)" 
 
-A desktop puzzle game developed using Java. The application provides a login system where users enter their username and password before accessing the game menu. After logging in, players can choose between two mini-games: Tic-Tac-Toe and Puzzle Game.
+A desktop puzzle game developed using Java. The application provides a login system where users enter their username and password before accessing the game menu. After logging in, players can choose between two mini-games : Tic-Tac-Toe and Puzzle Game.
 
 The Tic-Tac-Toe game is played on a 3×3 grid, where two players take turns placing X and O symbols. A player wins by aligning three symbols in a row, column, or diagonal.
 
